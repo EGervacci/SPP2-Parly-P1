@@ -20,8 +20,8 @@ public class SPP2ParlyP1 {
                 
         //Variables
         Scanner teclado = new Scanner (System.in);
-        int unidad, sistema, distancia;
-        double cantidad, respuesta;
+        int unidad, sistema;
+        double  respuesta;
         
         //Ejecución
         System.out.println("Convertidor de unidades");
